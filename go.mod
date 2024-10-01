@@ -1,4 +1,4 @@
-module protos
+module github.com/drglk/protos
 
 go 1.21.5
 
